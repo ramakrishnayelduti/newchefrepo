@@ -7,7 +7,7 @@ group 'bawarchi'
 
 user 'bawarchi' do
 	home '/home/bawarchi'
-	group '/bawarchi'
+	group 'bawarchi'
 	shell '/bin/bash'
 end
 
