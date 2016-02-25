@@ -4,6 +4,7 @@
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
 group 'bawarchi'
+
 user 'bawarchi' do
 	home '/home/bawarchi'
 	group '/bawarchi'
